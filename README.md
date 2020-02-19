@@ -102,4 +102,4 @@ Resistance: 371 Ohms
 
 ## Demo videos
 
-_TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
+Video of basic circuit on breadboard: https://imgur.com/a/o5Qtcbk
