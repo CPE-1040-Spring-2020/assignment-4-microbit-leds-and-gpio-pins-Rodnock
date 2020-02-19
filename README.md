@@ -93,7 +93,12 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 
 ## Measurements
 
-_TODO: Record and describe your circuit measurements and calculations here._
+Voltage: 2.6 V
+Current: 7 mA
+
+R = 2.6 / .007 = 371
+
+Resistance: 371 Ohms
 
 ## Demo videos
 
