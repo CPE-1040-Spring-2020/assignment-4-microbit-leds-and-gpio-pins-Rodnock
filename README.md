@@ -103,4 +103,7 @@ Resistance: 371 Ohms
 ## Demo videos
 
 Video of basic circuit on breadboard: https://imgur.com/a/o5Qtcbk
+
 Video of basic microbit LED control: https://imgur.com/a/ZopIOnb
+
+Video of screensaver with LED usage: https://imgur.com/a/cbt4jYk
